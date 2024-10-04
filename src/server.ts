@@ -1,5 +1,5 @@
 function login(username: string) {
-  console.log(username);
+    console.log(username);
 }
 
-login("pradip");
+login('pradip');
